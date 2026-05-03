@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="pomidorro">
+    <output-path>$PROJECT_DIR$/out/artifacts/pomidorro</output-path>
+    <root id="root">
+      <element id="archive" name="pomidorro.jar">
+        <element id="module-output" name="pomidorro" />
+      </element>
+    </root>
+  </artifact>
+</component>
